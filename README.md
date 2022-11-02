@@ -24,6 +24,23 @@
 ## 贡献者列表
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/erdengk">
+            <img src="https://avatars.githubusercontent.com/u/37730787?v=4" width="100;" alt="erdengk"/>
+            <br />
+            <sub><b>尔等同学</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/smartPigL">
+            <img src="https://avatars.githubusercontent.com/u/105263828?v=4" width="100;" alt="smartPigL"/>
+            <br />
+            <sub><b>smartPigL</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 
