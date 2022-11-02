@@ -5,9 +5,7 @@
 
 # 面经
 
-
-
-
+`java`  面试Java大二日常实习生, 基础扎实原理基本都知, 算法力扣千题, 面经合集 [滴滴](https://blog.csdn.net/m0_60413302/article/details/127591144?spm=1001.2014.3001.5501) [京东](https://blog.csdn.net/m0_60413302/article/details/127590986?spm=1001.2014.3001.5501) [粉笔](https://blog.csdn.net/m0_60413302/article/details/127591060?spm=1001.2014.3001.5501) [柠檬微趣(挂)](https://blog.csdn.net/m0_60413302/article/details/127591111?spm=1001.2014.3001.5501)
 
 # 视频
 
