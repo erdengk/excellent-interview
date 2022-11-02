@@ -1,12 +1,11 @@
 on:
   push:
     branches:
-      - master
+      - main
 
 name: Contributes
 
 jobs:
-  # 任务
   contrib-readme-en-job:
     runs-on: ubuntu-latest
     name: A job to automate contrib in readme
