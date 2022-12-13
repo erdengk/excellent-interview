@@ -42,7 +42,7 @@
         <a href="https://github.com/smartPigL">
             <img src="https://avatars.githubusercontent.com/u/105263828?v=4" width="100;" alt="smartPigL"/>
             <br />
-            <sub><b>smartPigL</b></sub>
+            <sub><b>SmartPigL</b></sub>
         </a>
     </td></tr>
 </table>
